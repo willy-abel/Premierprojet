@@ -1,0 +1,38 @@
+h1 {
+    color: #A5B4FC;
+    font-family: 'lobster' cursive;
+    font-size: 3.5em;
+}
+
+h2 {
+    color: #F9F8FF;
+    font-family: 'Franklin Gothic Medium',  sans-serif;
+}
+
+body{
+    
+    background-color: #1F2039;
+}
+
+p{
+    color:#F9F8FF;
+    font-size: 1.3em;
+    font-family: 'Montserrat';
+}
+a{
+    color: black;
+    font-size: 1.5em;
+    font-family: 'Montserrat';
+    font-weight: bolder;
+
+
+}
+.important{
+    color:  green;
+    font-weight: 900;
+    font-style: italic;
+}
+
+.entete , .pied-page {
+  background-color: white;
+}
